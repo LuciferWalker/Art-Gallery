@@ -4,7 +4,7 @@
 
 - An online platform for artists to promote their artworks.
 - All the artworks in this are made by me.
-- Instagram Art Account - @preetpatel_25
+- Instagram Art Account - https://www.instagram.com/preetpatel_25/
 
 ### Tech
 - HTML
