@@ -4,6 +4,7 @@
 
 - An online platform for artists to promote their artworks.
 - All the artworks in this are made by me.
+- SITE URL - art-gallery-preet.netlify.app
 - Instagram Art Account - https://www.instagram.com/preetpatel_25/
 
 ### Tech
